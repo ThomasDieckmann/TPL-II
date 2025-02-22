@@ -1,3 +1,3 @@
 # TPL-II
-## Taupunktlüftung II => dewpoint ventialtion II
+## Taupunktlüftung II => dewpoint ventilation II
 Description will be added later
