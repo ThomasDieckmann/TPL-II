@@ -1,10 +1,15 @@
 # TPL-II
 ## Taupunktlüftung II => dewpoint ventilation II
-Description will be added later
+Description in progress....
 
 The original project Taupunktlüftung is created by ct/Heise.
 
 I extended and modified the code for some additional functions and some optional hardware has been added, too.
+
+
+## purpose, just in case, you don't know...
+
+
 
 ## Hardware-Overview
 
